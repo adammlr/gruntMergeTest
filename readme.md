@@ -1,0 +1,1 @@
+A very simple project to test grunt-merge-json and its ability to merge files with French/Spanish characters.  Works here but not in my bigger project.
